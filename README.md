@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [GO语言程序设计](http://blog.ferried.cn:8080/articles/2019/09/05/1567651623206.html)
 * [我在 GitHub 上的开源项目](http://blog.ferried.cn:8080/my-github-repos)
 * [ElectronDemo](http://blog.ferried.cn:8080/articles/2019/08/19/1566178789711.html)
 * [Babel](http://blog.ferried.cn:8080/articles/2019/08/19/1566178740285.html)
