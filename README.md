@@ -10,18 +10,15 @@
 
 ### 最新
 
-* [GO语言程序设计](http://blog.ferried.cn:8080/articles/2019/09/05/1567651623206.html)
 * [我在 GitHub 上的开源项目](http://blog.ferried.cn:8080/my-github-repos)
 * [ElectronDemo](http://blog.ferried.cn:8080/articles/2019/08/19/1566178789711.html)
 * [Babel](http://blog.ferried.cn:8080/articles/2019/08/19/1566178740285.html)
-* [SpringBoot](http://blog.ferried.cn:8080/articles/2019/08/19/1566178661370.html)
 * [Nodejs](http://blog.ferried.cn:8080/articles/2019/08/19/1566178571707.html)
 * [Typescript](http://blog.ferried.cn:8080/articles/2019/08/19/1566178523818.html)
 * [Git](http://blog.ferried.cn:8080/articles/2019/08/19/1566178402477.html)
 * [AngularCli](http://blog.ferried.cn:8080/articles/2019/08/19/1566177948951.html)
 * [vscode 插件开发经历](http://blog.ferried.cn:8080/articles/2019/08/19/1566177776340.html)
 * [React](http://blog.ferried.cn:8080/articles/2019/08/19/1566177016645.html)
-* [Python](http://blog.ferried.cn:8080/articles/2019/08/19/1566176967608.html)
 * [Gradle](http://blog.ferried.cn:8080/articles/2019/08/19/1566176857184.html)
 * [Koa](http://blog.ferried.cn:8080/articles/2019/08/19/1566176781560.html)
 * [Angular6](http://blog.ferried.cn:8080/articles/2019/08/19/1566176660956.html)
