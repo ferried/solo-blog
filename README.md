@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [速览LUA](http://blog.ferried.cn:8080/articles/2019/09/24/1569304689336.html)
 * [我曾经跨过VSCODE和GO](http://blog.ferried.cn:8080/articles/2019/09/11/1568183310422.html)
 * [我在 GitHub 上的开源项目](http://blog.ferried.cn:8080/my-github-repos)
 * [ElectronDemo](http://blog.ferried.cn:8080/articles/2019/08/19/1566178789711.html)
