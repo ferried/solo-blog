@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.eiyouhe.com/my-github-repos)
 * [FOR YOU](http://blog.eiyouhe.com/articles/2019/10/29/1572350923307.html)
 * [SpaceVim lsp 配置](http://blog.eiyouhe.com/articles/2019/10/28/1572273457212.html)
 * [我曾经跨过VSCODE和GO](http://blog.eiyouhe.com/articles/2019/09/11/1568183310422.html)
