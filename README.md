@@ -10,8 +10,8 @@
 
 ### 最新
 
+* [《C Primer Plus》手记](http://blog.eiyouhe.com/articles/2019/11/17/1573958676119.html)
 * [纪念逝去的软件先驱](http://blog.eiyouhe.com/articles/2019/11/14/1573700326199.html)
-* [C Primer Plus 手记](http://blog.eiyouhe.com/articles/2019/11/13/1573639569340.html)
 * [我在 GitHub 上的开源项目](http://blog.eiyouhe.com/my-github-repos)
 * [FOR YOU](http://blog.eiyouhe.com/articles/2019/10/29/1572350923307.html)
 * [SpaceVim lsp 配置](http://blog.eiyouhe.com/articles/2019/10/28/1572273457212.html)
