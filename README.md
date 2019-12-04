@@ -10,10 +10,10 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
 * [《C Primer Plus》手记二](https://blog.eiyouhe.com/articles/2019/11/25/1574669159322.html)
 * [《C Primer Plus》手记一](https://blog.eiyouhe.com/articles/2019/11/17/1573958676119.html)
 * [纪念逝去的软件先驱](https://blog.eiyouhe.com/articles/2019/11/14/1573700326199.html)
-* [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
 * [FOR YOU](https://blog.eiyouhe.com/articles/2019/10/29/1572350923307.html)
 * [SpaceVim lsp 配置](https://blog.eiyouhe.com/articles/2019/10/28/1572273457212.html)
 * [我曾经跨过VSCODE和GO](https://blog.eiyouhe.com/articles/2019/09/11/1568183310422.html)
