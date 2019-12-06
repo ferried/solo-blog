@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2019/12/05/1575540666877.html)
 * [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
 * [《C Primer Plus》手记二](https://blog.eiyouhe.com/articles/2019/11/25/1574669159322.html)
 * [《C Primer Plus》手记一](https://blog.eiyouhe.com/articles/2019/11/17/1573958676119.html)
