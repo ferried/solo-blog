@@ -2,34 +2,34 @@
 争渡
 </h2>
 
-<h4 align="center">ferried's blog</h4>
+<h4 align="center">ferried's blog </h4>
 <p align="center"><a title="争渡" target="_blank" href="https://github.com/ferried/solo-blog"><img src="https://img.shields.io/github/last-commit/ferried/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/ferried/solo-blog"><img src="https://img.shields.io/github/repo-size/ferried/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/ferried/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [《C Primer Plus》手记三](https://blog.eiyouhe.com/articles/2019/12/06/1575625068064.html)
-* [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2019/12/05/1575540666877.html)
-* [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
-* [《C Primer Plus》手记二](https://blog.eiyouhe.com/articles/2019/11/25/1574669159322.html)
-* [《C Primer Plus》手记一](https://blog.eiyouhe.com/articles/2019/11/17/1573958676119.html)
-* [纪念逝去的软件先驱](https://blog.eiyouhe.com/articles/2019/11/14/1573700326199.html)
-* [FOR YOU](https://blog.eiyouhe.com/articles/2019/10/29/1572350923307.html)
-* [SpaceVim lsp 配置](https://blog.eiyouhe.com/articles/2019/10/28/1572273457212.html)
-* [我曾经跨过VSCODE和GO](https://blog.eiyouhe.com/articles/2019/09/11/1568183310422.html)
-* [ElectronDemo](https://blog.eiyouhe.com/articles/2019/08/19/1566178789711.html)
-* [Babel](https://blog.eiyouhe.com/articles/2019/08/19/1566178740285.html)
-* [Nodejs](https://blog.eiyouhe.com/articles/2019/08/19/1566178571707.html)
-* [Typescript](https://blog.eiyouhe.com/articles/2019/08/19/1566178523818.html)
-* [Git](https://blog.eiyouhe.com/articles/2019/08/19/1566178402477.html)
-* [AngularCli](https://blog.eiyouhe.com/articles/2019/08/19/1566177948951.html)
-* [vscode 插件开发经历](https://blog.eiyouhe.com/articles/2019/08/19/1566177776340.html)
-* [React](https://blog.eiyouhe.com/articles/2019/08/19/1566177016645.html)
-* [Gradle](https://blog.eiyouhe.com/articles/2019/08/19/1566176857184.html)
-* [Koa](https://blog.eiyouhe.com/articles/2019/08/19/1566176781560.html)
-* [Angular6](https://blog.eiyouhe.com/articles/2019/08/19/1566176660956.html)
+* [Spacevim快捷键](https://blog.eiyouhe.com/articles/2020/06/27/1593272416716.html)
+* [二零二零五月记](https://blog.eiyouhe.com/articles/2020/05/31/1590936812119.html)
+* [GitHub Action](https://blog.eiyouhe.com/articles/2020/04/29/1588151564522.html)
+* [BREW换源](https://blog.eiyouhe.com/articles/2020/04/26/1587865787226.html)
+* [解析cobra](https://blog.eiyouhe.com/articles/2020/04/21/1587462372986.html)
+* [kubernetes文档知识点个人总结](https://blog.eiyouhe.com/articles/2020/03/29/1585493374857.html)
+* [K8S-Scheduler 启动脚本](https://blog.eiyouhe.com/k8s)
+* [K8S-Controller-Manager启动脚本](https://blog.eiyouhe.com/articles/2020/03/23/1584944180518.html)
+* [K8S-API-SEVER 启动脚本](https://blog.eiyouhe.com/articles/2020/03/23/1584932305152.html)
+* [K8S-ETCD 启动脚本](https://blog.eiyouhe.com/articles/2020/03/19/1584630262465.html)
+* [关于Centos集群时间同步](https://blog.eiyouhe.com/articles/2020/03/19/1584630034279.html)
+* [Gin 快速预览《老铁版》](https://blog.eiyouhe.com/articles/2020/03/14/1584180343202.html)
+* [Golang基础总结](https://blog.eiyouhe.com/articles/2020/03/11/1583915832619.html)
+* [从Linux体系到GPM](https://blog.eiyouhe.com/articles/2020/03/05/1583418412118.html)
+* [记一次令人心悸的GITLAB升级经历](https://blog.eiyouhe.com/articles/2020/03/04/1583324383406.html)
+* [GO指南Scroll](https://blog.eiyouhe.com/articles/2020/01/18/1579329273890.html)
+* [Gradle多模块+SpringCloud微服务实践](https://blog.eiyouhe.com/articles/2020/01/06/1578318104295.html)
+* [解刨SOLO认证流程](https://blog.eiyouhe.com/articles/2019/12/23/1577104532633.html)
+* [C Queue Demo](https://blog.eiyouhe.com/articles/2019/12/22/1577006323470.html)
+* [C LinkList Demo](https://blog.eiyouhe.com/articles/2019/12/22/1576996926974.html)
 
 
 
