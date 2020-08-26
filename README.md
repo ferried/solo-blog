@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Static Single Assignment Form](https://blog.eiyouhe.com/articles/2020/08/25/1598362816494.html)
+* [Abstract Syntax Code](https://blog.eiyouhe.com/articles/2020/08/25/1598325447463.html)
 * [远方的你](https://blog.eiyouhe.com/articles/2020/08/21/1598019904185.html)
 * [夏尽](https://blog.eiyouhe.com/articles/2020/08/09/1596973297441.html)
 * [Spacevim快捷键](https://blog.eiyouhe.com/articles/2020/06/27/1593272416716.html)
@@ -28,8 +30,6 @@
 * [从Linux体系到GPM](https://blog.eiyouhe.com/articles/2020/03/05/1583418412118.html)
 * [记一次令人心悸的GITLAB升级经历](https://blog.eiyouhe.com/articles/2020/03/04/1583324383406.html)
 * [GO指南Scroll](https://blog.eiyouhe.com/articles/2020/01/18/1579329273890.html)
-* [Gradle多模块+SpringCloud微服务实践](https://blog.eiyouhe.com/articles/2020/01/06/1578318104295.html)
-* [解刨SOLO认证流程](https://blog.eiyouhe.com/articles/2019/12/23/1577104532633.html)
 
 
 
