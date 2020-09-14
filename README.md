@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [关于STCGAL的剖析](https://blog.eiyouhe.com/articles/2020/09/13/1599997860727.html)
 * [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2020/08/30/1598767655948.html)
 * [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
 * [SSA IN GO](https://blog.eiyouhe.com/articles/2020/08/28/1598599248439.html)
@@ -29,7 +30,6 @@
 * [K8S-Scheduler 启动脚本](https://blog.eiyouhe.com/k8s)
 * [K8S-Controller-Manager启动脚本](https://blog.eiyouhe.com/articles/2020/03/23/1584944180518.html)
 * [K8S-API-SEVER 启动脚本](https://blog.eiyouhe.com/articles/2020/03/23/1584932305152.html)
-* [K8S-ETCD 启动脚本](https://blog.eiyouhe.com/articles/2020/03/19/1584630262465.html)
 
 
 
