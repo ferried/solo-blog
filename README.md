@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [今日份感想](https://blog.eiyouhe.com/articles/2020/09/24/1600954527988.html)
 * [关于STCGAL的剖析](https://blog.eiyouhe.com/articles/2020/09/13/1599997860727.html)
 * [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2020/08/30/1598767655948.html)
 * [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
@@ -18,7 +19,6 @@
 * [Go词法语法分析](https://blog.eiyouhe.com/articles/2020/08/26/1598449762305.html)
 * [Static Single Assignment Form](https://blog.eiyouhe.com/articles/2020/08/25/1598362816494.html)
 * [Abstract Syntax Code](https://blog.eiyouhe.com/articles/2020/08/25/1598325447463.html)
-* [远方的你](https://blog.eiyouhe.com/articles/2020/08/21/1598019904185.html)
 * [夏尽](https://blog.eiyouhe.com/articles/2020/08/09/1596973297441.html)
 * [Spacevim快捷键](https://blog.eiyouhe.com/articles/2020/06/27/1593272416716.html)
 * [二零二零五月记](https://blog.eiyouhe.com/articles/2020/05/31/1590936812119.html)
