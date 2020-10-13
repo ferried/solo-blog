@@ -10,9 +10,9 @@
 
 ### 最新
 
+* [MARKDOWN 数学公式](https://blog.eiyouhe.com/articles/2020/10/10/1602321291271.html)
 * [deep learning-李宏毅-笔记2](https://blog.eiyouhe.com/articles/2020/10/07/1602032633860.html)
 * [deep learning-李宏毅-笔记1](https://blog.eiyouhe.com/articles/2020/10/06/1601976478210.html)
-* [days](https://blog.eiyouhe.com/articles/2020/09/24/1600954527988.html)
 * [关于STCGAL的剖析](https://blog.eiyouhe.com/articles/2020/09/13/1599997860727.html)
 * [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2020/08/30/1598767655948.html)
 * [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
