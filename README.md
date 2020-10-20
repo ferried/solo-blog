@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [跟着DeepLearning背单词-day01](https://blog.eiyouhe.com/articles/2020/10/19/1603114736758.html)
+* [于你](https://blog.eiyouhe.com/articles/2020/10/19/1603112406417.html)
 * [MARKDOWN 数学公式](https://blog.eiyouhe.com/articles/2020/10/10/1602321291271.html)
 * [关于STCGAL的剖析](https://blog.eiyouhe.com/articles/2020/09/13/1599997860727.html)
 * [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2020/08/30/1598767655948.html)
@@ -28,8 +30,6 @@
 * [解析cobra](https://blog.eiyouhe.com/articles/2020/04/21/1587462372986.html)
 * [kubernetes文档知识点个人总结](https://blog.eiyouhe.com/articles/2020/03/29/1585493374857.html)
 * [K8S-Scheduler 启动脚本](https://blog.eiyouhe.com/k8s)
-* [K8S-Controller-Manager启动脚本](https://blog.eiyouhe.com/articles/2020/03/23/1584944180518.html)
-* [K8S-API-SEVER 启动脚本](https://blog.eiyouhe.com/articles/2020/03/23/1584932305152.html)
 
 
 
