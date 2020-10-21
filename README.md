@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [跟着DeepLearning背单词-day01](https://blog.eiyouhe.com/articles/2020/10/19/1603114736758.html)
+* [KATEX_MATH_OP](https://blog.eiyouhe.com/articles/2020/10/20/1603189006997.html)
 * [于你](https://blog.eiyouhe.com/articles/2020/10/19/1603112406417.html)
 * [MARKDOWN 数学公式](https://blog.eiyouhe.com/articles/2020/10/10/1602321291271.html)
 * [关于STCGAL的剖析](https://blog.eiyouhe.com/articles/2020/09/13/1599997860727.html)
