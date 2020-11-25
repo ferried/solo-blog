@@ -19,7 +19,6 @@
 * [MARKDOWN 数学公式](https://blog.eiyouhe.com/articles/2020/10/10/1602321291271.html)
 * [关于STCGAL的剖析](https://blog.eiyouhe.com/articles/2020/09/13/1599997860727.html)
 * [Gitlab简易Release脚本](https://blog.eiyouhe.com/articles/2020/08/30/1598767655948.html)
-* [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
 * [SSA IN GO](https://blog.eiyouhe.com/articles/2020/08/28/1598599248439.html)
 * [nebula-helper in macos](https://blog.eiyouhe.com/articles/2020/08/28/1598581213456.html)
 * [Go词法语法分析](https://blog.eiyouhe.com/articles/2020/08/26/1598449762305.html)
@@ -30,6 +29,7 @@
 * [二零二零五月记](https://blog.eiyouhe.com/articles/2020/05/31/1590936812119.html)
 * [Github Release](https://blog.eiyouhe.com/articles/2020/04/29/1588151586778.html)
 * [GitHub Action](https://blog.eiyouhe.com/articles/2020/04/29/1588151564522.html)
+* [BREW换源](https://blog.eiyouhe.com/articles/2020/04/26/1587865787226.html)
 
 
 
