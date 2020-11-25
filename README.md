@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [github sponsor](https://blog.eiyouhe.com/articles/2020/11/24/1606210456576.html)
 * [Antv_G2笔记](https://blog.eiyouhe.com/articles/2020/11/13/1605256604675.html)
 * [Prometheus监控redis实例](https://blog.eiyouhe.com/articles/2020/11/12/1605153004410.html)
 * [K8S服务健康检测](https://blog.eiyouhe.com/articles/2020/11/06/1604630346875.html)
@@ -29,7 +30,6 @@
 * [二零二零五月记](https://blog.eiyouhe.com/articles/2020/05/31/1590936812119.html)
 * [Github Release](https://blog.eiyouhe.com/articles/2020/04/29/1588151586778.html)
 * [GitHub Action](https://blog.eiyouhe.com/articles/2020/04/29/1588151564522.html)
-* [BREW换源](https://blog.eiyouhe.com/articles/2020/04/26/1587865787226.html)
 
 
 
