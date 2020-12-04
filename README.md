@@ -2,7 +2,7 @@
 争渡
 </h2>
 
-<h4 align="center">Be my self</h4>
+<h4 align="center">奔三的日子里 在等你四年</h4>
 <p align="center"><a title="争渡" target="_blank" href="https://github.com/ferried/solo-blog"><img src="https://img.shields.io/github/last-commit/ferried/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/ferried/solo-blog"><img src="https://img.shields.io/github/repo-size/ferried/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [募友链 同闭环](https://blog.eiyouhe.com/articles/2020/11/25/1606297029192.html)
 * [github sponsor](https://blog.eiyouhe.com/articles/2020/11/24/1606210456576.html)
 * [Antv_G2笔记](https://blog.eiyouhe.com/articles/2020/11/13/1605256604675.html)
 * [Prometheus监控redis实例](https://blog.eiyouhe.com/articles/2020/11/12/1605153004410.html)
@@ -25,11 +24,12 @@
 * [Go词法语法分析](https://blog.eiyouhe.com/articles/2020/08/26/1598449762305.html)
 * [Static Single Assignment Form](https://blog.eiyouhe.com/articles/2020/08/25/1598362816494.html)
 * [Abstract Syntax Code](https://blog.eiyouhe.com/articles/2020/08/25/1598325447463.html)
-* [夏尽](https://blog.eiyouhe.com/articles/2020/08/09/1596973297441.html)
 * [Spacevim快捷键](https://blog.eiyouhe.com/articles/2020/06/27/1593272416716.html)
 * [二零二零五月记](https://blog.eiyouhe.com/articles/2020/05/31/1590936812119.html)
 * [Github Release](https://blog.eiyouhe.com/articles/2020/04/29/1588151586778.html)
 * [GitHub Action](https://blog.eiyouhe.com/articles/2020/04/29/1588151564522.html)
+* [BREW换源](https://blog.eiyouhe.com/articles/2020/04/26/1587865787226.html)
+* [解析cobra](https://blog.eiyouhe.com/articles/2020/04/21/1587462372986.html)
 
 
 
