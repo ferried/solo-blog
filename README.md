@@ -2,7 +2,7 @@
 争渡
 </h2>
 
-<h4 align="center">是否有勇气穿行八千里见你，是否会因我冒昧唐突感到厌烦。</h4>
+<h4 align="center">一切都是最好的安排</h4>
 <p align="center"><a title="争渡" target="_blank" href="https://github.com/ferried/solo-blog"><img src="https://img.shields.io/github/last-commit/ferried/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/ferried/solo-blog"><img src="https://img.shields.io/github/repo-size/ferried/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
