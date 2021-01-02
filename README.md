@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [星际争霸2AI环境搭建](https://blog.eiyouhe.com/articles/2021/01/01/1609515295211.html)
 * [关于Prometheus Exporter](https://blog.eiyouhe.com/articles/2020/12/31/1609418089449.html)
 * [2020年终](https://blog.eiyouhe.com/articles/2020/12/17/1608214994423.html)
 * [github sponsor](https://blog.eiyouhe.com/articles/2020/11/24/1606210456576.html)
@@ -29,7 +30,6 @@
 * [Spacevim快捷键](https://blog.eiyouhe.com/articles/2020/06/27/1593272416716.html)
 * [二零二零五月记](https://blog.eiyouhe.com/articles/2020/05/31/1590936812119.html)
 * [Github Release](https://blog.eiyouhe.com/articles/2020/04/29/1588151586778.html)
-* [GitHub Action](https://blog.eiyouhe.com/articles/2020/04/29/1588151564522.html)
 
 
 
