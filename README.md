@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [预计这个月完成这篇文章](https://blog.eiyouhe.com/articles/2021/03/01/1614599920734.html)
 * [RYMCU-8051单片机系列](https://blog.eiyouhe.com/articles/2021/03/01/1614561229265.html)
 * [关于微前端实现原理与ngx-planet(四)服务端渲染](https://blog.eiyouhe.com/articles/2021/02/25/1614224124030.html)
 * [我在 GitHub 上的开源项目](https://blog.eiyouhe.com/my-github-repos)
@@ -30,6 +29,7 @@
 * [K8S服务健康检测](https://blog.eiyouhe.com/articles/2020/11/06/1604630346875.html)
 * [Npm_Github_Action 实例](https://blog.eiyouhe.com/articles/2020/10/21/1603261417165.html)
 * [KATEX_MATH_OP](https://blog.eiyouhe.com/articles/2020/10/20/1603189006997.html)
+* [MARKDOWN 数学公式](https://blog.eiyouhe.com/articles/2020/10/10/1602321291271.html)
 
 
 
